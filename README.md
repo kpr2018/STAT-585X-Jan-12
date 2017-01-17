@@ -3,3 +3,5 @@ Tips for working in teams (listed by priority):
 
 1. First tip
 2. Second tip
+
+3. Third tip(?) (Jon's edit)
